@@ -99,7 +99,7 @@ This visualization represents the average duration of movies available on Netfli
 
 ## 📂 Files Included
 
-* `Netflix_Dashboard.xlsx` / 
+* `Netflix_Dashboard.xlsx` 
 * Netflix Dataset (`.csv`)
 
 ---
